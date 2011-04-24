@@ -1,0 +1,56 @@
+=======================================================
+= Linux 201 Session 3: 											=
+= And now for something completely different...			=
+= PYTHON!															=
+=																		=
+= Reference Handout												=
+=======================================================
+
+== Part 1: Interpreter
+
+Windows: IDLE
+Linux/Mac: just run 'python' in the terminal
+
+== Part 2: Guess the Number
+random:
+
+
+
+raw_input:
+
+
+== Part 3: Sorting
+fileinput:
+
+
+
+List Methods:
+
+
+
+open:
+
+
+
+write:
+
+
+
+str:
+
+
+
+== Part 4: Grab things from the internet
+BeautifulSoup:
+
+
+
+Urllibs:
+
+
+
+String Manipulation:
+
+
+
+== Personal Notes: 
